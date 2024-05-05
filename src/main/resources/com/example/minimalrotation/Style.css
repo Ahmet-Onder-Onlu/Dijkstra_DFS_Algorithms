@@ -1,0 +1,8 @@
+#root{
+    -fx-background-image: url("Map.png");
+    -fx-background-size: cover;
+}
+
+#icon{
+    -fx-image: url("location.png");
+}
